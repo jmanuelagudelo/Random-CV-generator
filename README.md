@@ -1,1 +1,1 @@
-# js-portfolio
+This is a generator of random curriculum made using an Api that generate random images, address and names, this project was code following the web pack Platzi's course
